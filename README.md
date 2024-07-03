@@ -22,4 +22,4 @@ Train the GRU model on the tokenized and padded sequences.
 
 5. Text Generation:
 
-Use the trained model to generate text sequences based on a seed inpu
+Use the trained model to generate text sequences based on a seed input
